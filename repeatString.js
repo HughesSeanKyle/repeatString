@@ -16,7 +16,7 @@ console.log(repeatStringNumTimes("Om", 9));
 // Notes
 /*/
 
-    //1     Initializes function that takes in two strings as arguments
+    //1     Initializes function that takes in two arguments: One being a string and the other an integer. 
                 -The Sample Data to be multiplied (string);
                 -The Multiplier (num)
 
